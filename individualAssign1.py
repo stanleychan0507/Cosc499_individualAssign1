@@ -28,3 +28,5 @@ while i < numOfCard-1:
     suitSelected = suit[randrange(0,3)]
     sortRank(cardInHandRank, cardInHandSuit, rankSelected, suitSelected)
     i+=1
+
+# Testing for the git pull and push
