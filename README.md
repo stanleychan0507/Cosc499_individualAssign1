@@ -8,4 +8,4 @@ This unit test of python is to test out the features of individualAssign1 sortin
 The features that is being tested here are :
 - Sorting hands of card with rank {10, 7, 3}.
 ## Video
-Link : <a href="https://www.youtube.com/watch?v=iB0ZQtwQ2eE">
+[Youtube link](https://www.youtube.com/watch?v=iB0ZQtwQ2eE)
